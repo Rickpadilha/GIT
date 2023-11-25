@@ -49,7 +49,7 @@ git config --global --unset user.name
 
 git config --global --unset user.email
 
-git config --unset-all credential.helper
+git config --global --unset-all credential.helper
 
 
 ## Clonar um projeto (Baixar projeto)
