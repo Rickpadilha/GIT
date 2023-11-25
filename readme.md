@@ -41,3 +41,14 @@
 >
     O Parametro "-m" define que estamos informando uma mensagem referentes aos códigos que estamos salvando. 
 
+
+## Remover Login GIT do Terminal
+
+
+git config --global --unset user.name
+git config --global --unset user.email
+git config --unset-all credential.helper
+
+
+
+
