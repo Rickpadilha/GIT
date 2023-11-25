@@ -66,3 +66,16 @@ git config --unset-all credential.helper
 
 ## Para visualizar no editor vscode
 > code .
+
+
+## Salvar uma modificação
+
+> git status
+> 
+> git add .
+> 
+> git commit -m "nove do prejeto que quiser"
+
+
+## Enviar para o servidor online 
+> git push -u origin master
